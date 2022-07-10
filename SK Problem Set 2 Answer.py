@@ -12,7 +12,7 @@
 import random
 import string
 
-WORDLIST_FILENAME = "MIT OpenCourseware Intro to CompSci and Programming in Python\Problem Set 2\ps2\Problem Set 2 Words.txt"
+WORDLIST_FILENAME = "Problem Set 2 Words.txt"
 
 
 def load_words():
