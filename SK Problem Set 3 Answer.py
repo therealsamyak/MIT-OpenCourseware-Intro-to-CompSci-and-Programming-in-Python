@@ -23,7 +23,7 @@ SCRABBLE_LETTER_VALUES = { #added wildcard as '*'
 # Helper code
 # (you don't need to understand this helper code)
 
-WORDLIST_FILENAME = "MIT OpenCourseware Intro to CompSci and Programming in Python\Problem Set 3\ps3\Problem Set 3 Words.txt"
+WORDLIST_FILENAME = "Problem Set 3 Words.txt"
 
 def load_words():
     """
